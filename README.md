@@ -1,8 +1,8 @@
-# XIVRolladeck Plugin
+# XIV Rolladeck Plugin
 
 **See who's spinning in Eorzea right now — and get there without ever leaving the game.**
 
-XIVRolladeck is a Dalamud plugin that brings the [XIV Rolladeck](https://xivrolladeck.com) DJ and venue directory directly into Final Fantasy XIV. Track your favourite DJs, browse open venues, and save housing addresses for one-click teleporting.
+XIV Rolladeck is a Dalamud plugin that brings the [XIV Rolladeck](https://xivrolladeck.com) DJ and venue directory directly into Final Fantasy XIV. Track your favourite DJs, browse open venues, and save housing addresses for one-click teleporting.
 
 ---
 
@@ -20,7 +20,7 @@ XIVRolladeck is a Dalamud plugin that brings the [XIV Rolladeck](https://xivroll
 
 ## Installation
 
-XIVRolladeck is distributed as a custom Dalamud plugin repository.
+XIV Rolladeck is distributed as a custom Dalamud plugin repository.
 
 1. Open **Dalamud Settings** (`/xlsettings`)
 2. Go to the **Experimental** tab
@@ -31,7 +31,7 @@ https://plugin.xivrolladeck.com/repo.json
 ```
 
 4. Click **Save & Close**
-5. Open the **Plugin Installer** (`/xlplugins`), search for **XIVRolladeck**, and install
+5. Open the **Plugin Installer** (`/xlplugins`), search for **XIV Rolladeck**, and install
 
 ---
 
