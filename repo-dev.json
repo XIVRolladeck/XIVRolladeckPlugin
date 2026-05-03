@@ -8,7 +8,7 @@
     "AssemblyVersion": "0.0.0.0",
     "RepoUrl": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "Tags": [
       "DJ",
       "venue",
@@ -21,7 +21,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1777344995,
+    "LastUpdate": 1777786619,
     "DownloadLinkInstall": "https://github.com/XIVRolladeck/XIVRolladeckPlugin/releases/download/dev-latest/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XIVRolladeck/XIVRolladeckPlugin/releases/download/dev-latest/latest.zip",
     "DownloadLinkTesting": "https://github.com/XIVRolladeck/XIVRolladeckPlugin/releases/download/dev-latest/latest.zip"
