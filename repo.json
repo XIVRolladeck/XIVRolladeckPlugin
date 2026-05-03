@@ -5,7 +5,7 @@
     "Punchline": "Live FFXIV DJ and venue tracker",
     "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
     "InternalName": "XIVRolladeck",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.4.0.0",
     "RepoUrl": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -21,7 +21,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1777821711,
+    "LastUpdate": 1777822248,
     "DownloadLinkInstall": "https://github.com/XIVRolladeck/XIVRolladeckPlugin/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XIVRolladeck/XIVRolladeckPlugin/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XIVRolladeck/XIVRolladeckPlugin/releases/latest/download/latest.zip"
